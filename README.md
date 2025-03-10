@@ -18,4 +18,4 @@ with an **intuitive and user-friendly interface**.
 ---
 
 ## **📷 Project Screenshot**
-![Screenshot](./screenshot/img1.PNG)
+![Screenshot](./screenshot/img1.png)
